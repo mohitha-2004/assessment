@@ -1,3 +1,5 @@
 streamlit
-rdkit-pypi
 matplotlib
+pandas
+numpy
+rdkit-pypi
